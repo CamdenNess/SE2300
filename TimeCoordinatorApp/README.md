@@ -2,7 +2,7 @@ The Time Zone Coordinator allows users to easily convert times across many time 
 
 1. SETTING UP THE APP  
    a. Download and install OpenJDK Java (you can download here - https://adoptium.net/ )  
-   b. Download CoordinatorApp.java and the icons folder (put these both within a folder for best results)  
+   b. Download CoordinatorApp.java and the Icons folder (put these both within a folder for best results)  
    (Note: you may have to manually download images and put them in a folder names "Icons". Another option is to use https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2FCamdenNess%2FSE2300%2Ftree%2Fmain%2FTimeCoordinatorApp%2FIcons and extract contents to folder named "Icons")  
    c. Open command prompt  
    d. Navigate to the folder that the application is in  
